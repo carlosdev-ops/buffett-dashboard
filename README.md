@@ -1,5 +1,12 @@
 # Carlos Dashboard — Analyse Boursière
 
+![License: MIT](https://img.shields.io/badge/Licence-MIT-yellow.svg)
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-4-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-4-06B6D4?logo=tailwindcss&logoColor=white)
+![Tests](https://img.shields.io/badge/tests-91%20passés-brightgreen?logo=vitest)
+![Node.js](https://img.shields.io/badge/Node.js-Express-339933?logo=node.js&logoColor=white)
+
 Dashboard interactif d'analyse fondamentale d'actions selon les principes de Carlos, avec données en temps réel via Yahoo Finance. Watchlist par défaut : les 60 actions du S&P/TSX 60 (marché canadien).
 
 ## Fonctionnalités
